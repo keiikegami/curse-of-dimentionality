@@ -6,4 +6,4 @@
 
 ####nが10ぐらいから挙動がおかしくなり始めます。
 
-[!alt](https://github.com/keiikegami/curse-of-dimentionality/blob/master/images/n=2.png?raw=true)
+![alt](https://github.com/keiikegami/curse-of-dimentionality/blob/master/images/n=2.png?raw=true)
