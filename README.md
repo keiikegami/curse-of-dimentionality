@@ -4,4 +4,6 @@
 
 ####n次元球に点を落として、円周率をMCMCで求めます。
 
-####nが12ぐらいから挙動がおかしくなり始めます。
+####nが10ぐらいから挙動がおかしくなり始めます。
+
+[!alt](https://github.com/keiikegami/curse-of-dimentionality/blob/master/images/n%3D2.png)
