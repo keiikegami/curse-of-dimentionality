@@ -6,6 +6,8 @@
 
 ####nが10ぐらいから挙動がおかしくなり始めます。
 
+- [ipython notebook](https://github.com/keiikegami/curse-of-dimentionality/blob/master/curse%20of%20dimentionality.ipynb)
+
 ![alt n=2](https://github.com/keiikegami/curse-of-dimentionality/blob/master/images/n=2.png?raw=true)
 
 ![alt n=3](https://github.com/keiikegami/curse-of-dimentionality/blob/master/images/n=3.png?raw=true)
